@@ -21,9 +21,9 @@
     ],
     "require" : {
         "php": "^7.4",
-        "symfony/console": "*",
-        "symfony/filesystem": "*",
-        "symfony/finder": "*",
+        "symfony/console": "4.*",
+        "symfony/filesystem": "4.*",
+        "symfony/finder": "4.*",
         "phlak/semver": "^3.0.1"
     }
 }
